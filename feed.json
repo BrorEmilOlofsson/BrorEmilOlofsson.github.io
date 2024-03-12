@@ -16,27 +16,29 @@
             "title": "Projects",
             "summary": "This is my projects page",
             "content_html": "\n  <p>\n    This is my projects page\n  </p>\n\n  <p>\n    \n  </p>",
+            "image": "https://broremilolofsson.github.io/media/posts/5/Skaermbild-2023-12-19-160924.png",
             "author": {
                 "name": "Emil Olofsson"
             },
             "tags": [
             ],
             "date_published": "2024-02-21T12:19:16+01:00",
-            "date_modified": "2024-03-12T12:52:14+01:00"
+            "date_modified": "2024-03-12T13:20:16+01:00"
         },
         {
             "id": "https://broremilolofsson.github.io/visual-scripting.html",
             "url": "https://broremilolofsson.github.io/visual-scripting.html",
             "title": "Visual Scripting",
-            "summary": "This is my visual scripting page",
-            "content_html": "\n  <p>\n    This is my visual scripting page\n  </p>",
+            "summary": "This is my visual scripting page dfsfdfsdf",
+            "content_html": "\n  <p>\n    This is my visual scripting page\n  </p>\n\n  <p>\n    dfsfdfsdf\n  </p>\n\n  <p>\n    \n  </p>",
+            "image": "https://broremilolofsson.github.io/media/posts/4/Skaermbild-2023-09-15-102233.png",
             "author": {
                 "name": "Emil Olofsson"
             },
             "tags": [
             ],
             "date_published": "2024-02-21T12:17:48+01:00",
-            "date_modified": "2024-02-21T12:17:48+01:00"
+            "date_modified": "2024-03-12T13:19:00+01:00"
         }
     ]
 }

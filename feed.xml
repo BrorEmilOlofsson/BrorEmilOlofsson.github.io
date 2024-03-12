@@ -3,7 +3,7 @@
     <title>Portfolio</title>
     <link href="https://broremilolofsson.github.io/feed.xml" rel="self" />
     <link href="https://broremilolofsson.github.io" />
-    <updated>2024-03-12T12:52:14+01:00</updated>
+    <updated>2024-03-12T13:20:16+01:00</updated>
     <author>
         <name>Emil Olofsson</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://broremilolofsson.github.io/projects.html"/>
         <id>https://broremilolofsson.github.io/projects.html</id>
+        <media:content url="https://broremilolofsson.github.io/media/posts/5/Skaermbild-2023-12-19-160924.png" medium="image" />
 
-        <updated>2024-03-12T12:52:14+01:00</updated>
+        <updated>2024-03-12T13:20:16+01:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://broremilolofsson.github.io/media/posts/5/Skaermbild-2023-12-19-160924.png" alt="" />
                     This is my projects page
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://broremilolofsson.github.io/media/posts/5/Skaermbild-2023-12-19-160924.png" class="type:primaryImage" alt="" /></p>
                 
   <p>
     This is my projects page
@@ -43,18 +46,29 @@
         </author>
         <link href="https://broremilolofsson.github.io/visual-scripting.html"/>
         <id>https://broremilolofsson.github.io/visual-scripting.html</id>
+        <media:content url="https://broremilolofsson.github.io/media/posts/4/Skaermbild-2023-09-15-102233.png" medium="image" />
 
-        <updated>2024-02-21T12:17:48+01:00</updated>
+        <updated>2024-03-12T13:19:00+01:00</updated>
             <summary>
                 <![CDATA[
-                    This is my visual scripting page
+                        <img src="https://broremilolofsson.github.io/media/posts/4/Skaermbild-2023-09-15-102233.png" alt="" />
+                    This is my visual scripting page dfsfdfsdf
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://broremilolofsson.github.io/media/posts/4/Skaermbild-2023-09-15-102233.png" class="type:primaryImage" alt="" /></p>
                 
   <p>
     This is my visual scripting page
+  </p>
+
+  <p>
+    dfsfdfsdf
+  </p>
+
+  <p>
+    
   </p>
             ]]>
         </content>
