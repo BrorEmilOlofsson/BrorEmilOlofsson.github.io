@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://broremilolofsson.github.io/sitemap.xml

@@ -1,0 +1,42 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Portfolio",
+    "description": "",
+    "home_page_url": "https://broremilolofsson.github.io",
+    "feed_url": "https://broremilolofsson.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://broremilolofsson.github.io/media/website/ActionSystem.png",
+    "author": {
+        "name": "Emil Olofsson"
+    },
+    "items": [
+        {
+            "id": "https://broremilolofsson.github.io/projects.html",
+            "url": "https://broremilolofsson.github.io/projects.html",
+            "title": "Projects",
+            "summary": "This is my projects page",
+            "content_html": "\n  <p>\n    This is my projects page\n  </p>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Emil Olofsson"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-21T12:19:16+01:00",
+            "date_modified": "2024-03-12T12:52:14+01:00"
+        },
+        {
+            "id": "https://broremilolofsson.github.io/visual-scripting.html",
+            "url": "https://broremilolofsson.github.io/visual-scripting.html",
+            "title": "Visual Scripting",
+            "summary": "This is my visual scripting page",
+            "content_html": "\n  <p>\n    This is my visual scripting page\n  </p>",
+            "author": {
+                "name": "Emil Olofsson"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-21T12:17:48+01:00",
+            "date_modified": "2024-02-21T12:17:48+01:00"
+        }
+    ]
+}

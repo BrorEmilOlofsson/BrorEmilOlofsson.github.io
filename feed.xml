@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Portfolio</title>
+    <link href="https://broremilolofsson.github.io/feed.xml" rel="self" />
+    <link href="https://broremilolofsson.github.io" />
+    <updated>2024-03-12T12:52:14+01:00</updated>
+    <author>
+        <name>Emil Olofsson</name>
+    </author>
+    <id>https://broremilolofsson.github.io</id>
+
+    <entry>
+        <title>Projects</title>
+        <author>
+            <name>Emil Olofsson</name>
+        </author>
+        <link href="https://broremilolofsson.github.io/projects.html"/>
+        <id>https://broremilolofsson.github.io/projects.html</id>
+
+        <updated>2024-03-12T12:52:14+01:00</updated>
+            <summary>
+                <![CDATA[
+                    This is my projects page
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    This is my projects page
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Visual Scripting</title>
+        <author>
+            <name>Emil Olofsson</name>
+        </author>
+        <link href="https://broremilolofsson.github.io/visual-scripting.html"/>
+        <id>https://broremilolofsson.github.io/visual-scripting.html</id>
+
+        <updated>2024-02-21T12:17:48+01:00</updated>
+            <summary>
+                <![CDATA[
+                    This is my visual scripting page
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    This is my visual scripting page
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
