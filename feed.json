@@ -11,11 +11,42 @@
     },
     "items": [
         {
+            "id": "https://broremilolofsson.github.io/the-negotiators.html",
+            "url": "https://broremilolofsson.github.io/the-negotiators.html",
+            "title": "The Negotiators",
+            "summary": "Contributions EditorNode ScriptingScene Management",
+            "content_html": "\n    <h2 id=\"contributions\" class=\"align-center\">\n      Contributions\n    </h2>\n\n  <ul>\n    <li>Editor</li><li>Node Scripting</li><li>Scene Management</li>\n  </ul>",
+            "image": "https://broremilolofsson.github.io/media/posts/7/Skaermbild-2024-02-13-180216.png",
+            "author": {
+                "name": "Emil Olofsson"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-03-13T13:59:18+01:00",
+            "date_modified": "2024-03-13T14:01:37+01:00"
+        },
+        {
+            "id": "https://broremilolofsson.github.io/spite-new-sun.html",
+            "url": "https://broremilolofsson.github.io/spite-new-sun.html",
+            "title": "Spite: New Sun",
+            "summary": "Contributions Navmesh (A* and Funneling)Enemies (Behavior Tree)Collision SystemTrigger System",
+            "content_html": "\n    <h2 id=\"contributions\" class=\"align-center\">\n      Contributions\n    </h2>\n\n  <ul>\n    <li>Navmesh (A* and Funneling)</li><li>Enemies (Behavior Tree)</li><li>Collision System</li><li>Trigger System</li>\n  </ul>",
+            "image": "https://broremilolofsson.github.io/media/posts/6/Skaermbild-2023-11-02-112217.png",
+            "author": {
+                "name": "Emil Olofsson"
+            },
+            "tags": [
+                   "Tag 1"
+            ],
+            "date_published": "2024-03-13T13:16:56+01:00",
+            "date_modified": "2024-03-13T13:55:17+01:00"
+        },
+        {
             "id": "https://broremilolofsson.github.io/projects.html",
             "url": "https://broremilolofsson.github.io/projects.html",
-            "title": "Projects",
-            "summary": "This is my projects page",
-            "content_html": "\n  <p>\n    This is my projects page\n  </p>\n\n  <p>\n    \n  </p>",
+            "title": "Stella&#x27;s Quest",
+            "summary": "This is Stella's Quest",
+            "content_html": "\n  <p>\n    This is Stella's Quest\n  </p>\n\n    <h2 id=\"contributions\" class=\"align-center\">\n      Contributions\n    </h2>\n\n  <ul>\n    <li>Scripted event system</li><li>Unity tools for Level designers</li><li>Export/Import pipeline of scripted events</li><li>Collectables</li>\n  </ul>\n\n  <p>\n    \n  </p>",
             "image": "https://broremilolofsson.github.io/media/posts/5/Skaermbild-2023-12-19-160924.png",
             "author": {
                 "name": "Emil Olofsson"
@@ -23,14 +54,14 @@
             "tags": [
             ],
             "date_published": "2024-02-21T12:19:16+01:00",
-            "date_modified": "2024-03-12T13:20:16+01:00"
+            "date_modified": "2024-03-13T13:50:37+01:00"
         },
         {
             "id": "https://broremilolofsson.github.io/visual-scripting.html",
             "url": "https://broremilolofsson.github.io/visual-scripting.html",
             "title": "Visual Scripting",
-            "summary": "This is my visual scripting page dfsfdfsdf",
-            "content_html": "\n  <p>\n    This is my visual scripting page\n  </p>\n\n  <p>\n    dfsfdfsdf\n  </p>\n\n  <p>\n    \n  </p>",
+            "summary": "This is my visual scripting page Fjdfskd",
+            "content_html": "\n  <p>\n    This is my visual scripting page\n  </p>\n\n  <p>\n    Fjdfskd\n  </p>\n\n  <p>\n    \n  </p>",
             "image": "https://broremilolofsson.github.io/media/posts/4/Skaermbild-2023-09-15-102233.png",
             "author": {
                 "name": "Emil Olofsson"
@@ -38,7 +69,7 @@
             "tags": [
             ],
             "date_published": "2024-02-21T12:17:48+01:00",
-            "date_modified": "2024-03-12T13:19:00+01:00"
+            "date_modified": "2024-03-13T14:05:32+01:00"
         }
     ]
 }

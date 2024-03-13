@@ -3,14 +3,75 @@
     <title>Portfolio</title>
     <link href="https://broremilolofsson.github.io/feed.xml" rel="self" />
     <link href="https://broremilolofsson.github.io" />
-    <updated>2024-03-12T13:20:16+01:00</updated>
+    <updated>2024-03-13T14:05:32+01:00</updated>
     <author>
         <name>Emil Olofsson</name>
     </author>
     <id>https://broremilolofsson.github.io</id>
 
     <entry>
-        <title>Projects</title>
+        <title>The Negotiators</title>
+        <author>
+            <name>Emil Olofsson</name>
+        </author>
+        <link href="https://broremilolofsson.github.io/the-negotiators.html"/>
+        <id>https://broremilolofsson.github.io/the-negotiators.html</id>
+        <media:content url="https://broremilolofsson.github.io/media/posts/7/Skaermbild-2024-02-13-180216.png" medium="image" />
+
+        <updated>2024-03-13T14:01:37+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://broremilolofsson.github.io/media/posts/7/Skaermbild-2024-02-13-180216.png" alt="" />
+                    Contributions EditorNode ScriptingScene Management
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://broremilolofsson.github.io/media/posts/7/Skaermbild-2024-02-13-180216.png" class="type:primaryImage" alt="" /></p>
+                
+    <h2 id="contributions" class="align-center">
+      Contributions
+    </h2>
+
+  <ul>
+    <li>Editor</li><li>Node Scripting</li><li>Scene Management</li>
+  </ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Spite: New Sun</title>
+        <author>
+            <name>Emil Olofsson</name>
+        </author>
+        <link href="https://broremilolofsson.github.io/spite-new-sun.html"/>
+        <id>https://broremilolofsson.github.io/spite-new-sun.html</id>
+        <media:content url="https://broremilolofsson.github.io/media/posts/6/Skaermbild-2023-11-02-112217.png" medium="image" />
+            <category term="Tag 1"/>
+
+        <updated>2024-03-13T13:55:17+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://broremilolofsson.github.io/media/posts/6/Skaermbild-2023-11-02-112217.png" alt="" />
+                    Contributions Navmesh (A* and Funneling)Enemies (Behavior Tree)Collision SystemTrigger System
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://broremilolofsson.github.io/media/posts/6/Skaermbild-2023-11-02-112217.png" class="type:primaryImage" alt="" /></p>
+                
+    <h2 id="contributions" class="align-center">
+      Contributions
+    </h2>
+
+  <ul>
+    <li>Navmesh (A* and Funneling)</li><li>Enemies (Behavior Tree)</li><li>Collision System</li><li>Trigger System</li>
+  </ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Stella&#x27;s Quest</title>
         <author>
             <name>Emil Olofsson</name>
         </author>
@@ -18,11 +79,11 @@
         <id>https://broremilolofsson.github.io/projects.html</id>
         <media:content url="https://broremilolofsson.github.io/media/posts/5/Skaermbild-2023-12-19-160924.png" medium="image" />
 
-        <updated>2024-03-12T13:20:16+01:00</updated>
+        <updated>2024-03-13T13:50:37+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://broremilolofsson.github.io/media/posts/5/Skaermbild-2023-12-19-160924.png" alt="" />
-                    This is my projects page
+                    This is Stella's Quest
                 ]]>
             </summary>
         <content type="html">
@@ -30,8 +91,16 @@
                     <p><img src="https://broremilolofsson.github.io/media/posts/5/Skaermbild-2023-12-19-160924.png" class="type:primaryImage" alt="" /></p>
                 
   <p>
-    This is my projects page
+    This is Stella's Quest
   </p>
+
+    <h2 id="contributions" class="align-center">
+      Contributions
+    </h2>
+
+  <ul>
+    <li>Scripted event system</li><li>Unity tools for Level designers</li><li>Export/Import pipeline of scripted events</li><li>Collectables</li>
+  </ul>
 
   <p>
     
@@ -48,11 +117,11 @@
         <id>https://broremilolofsson.github.io/visual-scripting.html</id>
         <media:content url="https://broremilolofsson.github.io/media/posts/4/Skaermbild-2023-09-15-102233.png" medium="image" />
 
-        <updated>2024-03-12T13:19:00+01:00</updated>
+        <updated>2024-03-13T14:05:32+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://broremilolofsson.github.io/media/posts/4/Skaermbild-2023-09-15-102233.png" alt="" />
-                    This is my visual scripting page dfsfdfsdf
+                    This is my visual scripting page Fjdfskd
                 ]]>
             </summary>
         <content type="html">
@@ -64,7 +133,7 @@
   </p>
 
   <p>
-    dfsfdfsdf
+    Fjdfskd
   </p>
 
   <p>
