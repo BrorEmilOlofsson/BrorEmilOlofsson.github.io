@@ -3,7 +3,7 @@
     <title>Portfolio</title>
     <link href="https://broremilolofsson.github.io/feed.xml" rel="self" />
     <link href="https://broremilolofsson.github.io" />
-    <updated>2024-03-13T14:05:32+01:00</updated>
+    <updated>2024-03-14T11:20:11+01:00</updated>
     <author>
         <name>Emil Olofsson</name>
     </author>
@@ -18,11 +18,11 @@
         <id>https://broremilolofsson.github.io/the-negotiators.html</id>
         <media:content url="https://broremilolofsson.github.io/media/posts/7/Skaermbild-2024-02-13-180216.png" medium="image" />
 
-        <updated>2024-03-13T14:01:37+01:00</updated>
+        <updated>2024-03-14T11:20:11+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://broremilolofsson.github.io/media/posts/7/Skaermbild-2024-02-13-180216.png" alt="" />
-                    Contributions EditorNode ScriptingScene Management
+                    Contributions EditorNode ScriptingScene Management Editor
                 ]]>
             </summary>
         <content type="html">
@@ -36,6 +36,10 @@
   <ul>
     <li>Editor</li><li>Node Scripting</li><li>Scene Management</li>
   </ul>
+
+    <h2 id="editor">
+      Editor
+    </h2>
             ]]>
         </content>
     </entry>

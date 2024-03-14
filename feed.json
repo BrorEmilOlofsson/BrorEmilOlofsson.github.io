@@ -14,8 +14,8 @@
             "id": "https://broremilolofsson.github.io/the-negotiators.html",
             "url": "https://broremilolofsson.github.io/the-negotiators.html",
             "title": "The Negotiators",
-            "summary": "Contributions EditorNode ScriptingScene Management",
-            "content_html": "\n    <h2 id=\"contributions\" class=\"align-center\">\n      Contributions\n    </h2>\n\n  <ul>\n    <li>Editor</li><li>Node Scripting</li><li>Scene Management</li>\n  </ul>",
+            "summary": "Contributions EditorNode ScriptingScene Management Editor",
+            "content_html": "\n    <h2 id=\"contributions\" class=\"align-center\">\n      Contributions\n    </h2>\n\n  <ul>\n    <li>Editor</li><li>Node Scripting</li><li>Scene Management</li>\n  </ul>\n\n    <h2 id=\"editor\">\n      Editor\n    </h2>",
             "image": "https://broremilolofsson.github.io/media/posts/7/Skaermbild-2024-02-13-180216.png",
             "author": {
                 "name": "Emil Olofsson"
@@ -23,7 +23,7 @@
             "tags": [
             ],
             "date_published": "2024-03-13T13:59:18+01:00",
-            "date_modified": "2024-03-13T14:01:37+01:00"
+            "date_modified": "2024-03-14T11:20:11+01:00"
         },
         {
             "id": "https://broremilolofsson.github.io/spite-new-sun.html",
