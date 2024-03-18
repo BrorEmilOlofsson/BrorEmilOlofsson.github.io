@@ -3,7 +3,7 @@
     <title>Portfolio</title>
     <link href="https://broremilolofsson.github.io/feed.xml" rel="self" />
     <link href="https://broremilolofsson.github.io" />
-    <updated>2024-03-14T11:20:11+01:00</updated>
+    <updated>2024-03-18T17:43:54+01:00</updated>
     <author>
         <name>Emil Olofsson</name>
     </author>
@@ -18,17 +18,25 @@
         <id>https://broremilolofsson.github.io/the-negotiators.html</id>
         <media:content url="https://broremilolofsson.github.io/media/posts/7/Skaermbild-2024-02-13-180216.png" medium="image" />
 
-        <updated>2024-03-14T11:20:11+01:00</updated>
+        <updated>2024-03-18T17:37:05+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://broremilolofsson.github.io/media/posts/7/Skaermbild-2024-02-13-180216.png" alt="" />
-                    Contributions EditorNode ScriptingScene Management Editor
+                    Project Description Engine: Fraktal Oktav (in-house) Duration: 15 weeks In this project&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://broremilolofsson.github.io/media/posts/7/Skaermbild-2024-02-13-180216.png" class="type:primaryImage" alt="" /></p>
                 
+    <h4 id="project-description" class="align-center">
+      Project Description
+    </h4>
+
+  <p>
+    Engine: Fraktal Oktav (in-house)<br>Duration: 15 weeks<br>
+  </p>
+
     <h2 id="contributions" class="align-center">
       Contributions
     </h2>
@@ -37,9 +45,33 @@
     <li>Editor</li><li>Node Scripting</li><li>Scene Management</li>
   </ul>
 
-    <h2 id="editor">
+    <h3 id="editor">
       Editor
-    </h2>
+    </h3>
+
+  <p>
+    In this project I focused mainly on enhancing our engine's editor. This included having a "Scene" view with it's own camera so the user can roam around the scene freely, pause and play options, and data management.
+  </p>
+
+    <h3 id="node-scripting">
+      Node Scripting
+    </h3>
+
+  <p>
+    I created my own node scripting system from scratch, for more info see: <a href="https://broremilolofsson.github.io/visual-scripting.html" target="_blank">Visual Scripting</a>
+  </p>
+
+    <h3 id="scene-management">
+      Scene Management
+    </h3>
+
+  <p>
+    As we still used Unity as our editor, we had to be reliant on the Unity-IDs that they generate. This created problems as we couldn't use these IDs to save data about our engine created objects and to link any objects to other parts of the engine (such as node scripting).
+  </p>
+
+  <p>
+    The solution was to allow for the scenes handling to be handled completely from our engine. This included serialization and deserialization of scenes using Json.
+  </p>
             ]]>
         </content>
     </entry>
@@ -53,24 +85,94 @@
         <media:content url="https://broremilolofsson.github.io/media/posts/6/Skaermbild-2023-11-02-112217.png" medium="image" />
             <category term="Tag 1"/>
 
-        <updated>2024-03-13T13:55:17+01:00</updated>
+        <updated>2024-03-18T17:43:54+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://broremilolofsson.github.io/media/posts/6/Skaermbild-2023-11-02-112217.png" alt="" />
-                    Contributions Navmesh (A* and Funneling)Enemies (Behavior Tree)Collision SystemTrigger System
+                    Project Description Engine: Fraktal Oktav (in-house) Duration: 12 weeks I implemented navigation&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://broremilolofsson.github.io/media/posts/6/Skaermbild-2023-11-02-112217.png" class="type:primaryImage" alt="" /></p>
                 
-    <h2 id="contributions" class="align-center">
-      Contributions
+    <h3 id="project-description" class="align-center">
+      Project Description
+    </h3>
+
+  <p>
+    Engine: Fraktal Oktav (in-house)<br>Duration: 12 weeks<br>
+  </p>
+
+    <h2 id="contribution" class="align-center">
+      Contribution
     </h2>
 
   <ul>
     <li>Navmesh (A* and Funneling)</li><li>Enemies (Behavior Tree)</li><li>Collision System</li><li>Trigger System</li>
   </ul>
+
+    <h3 id="navmesh">
+      Navmesh
+    </h3>
+
+  <p>
+    I implemented navigation on a navmesh that we used in this project. This included implementing the A*-algorithm and the funneling-algorithm in order to find the shortest path for an agent to take.
+  </p>
+
+  <p>
+    The implementation included raycasting on the navmesh to find where the user clicked and finding the closest point inside the navmesh when clicking outside.
+  </p>
+
+  <p>
+    I optimized the code to make it faster and in the end we could have up to 50 enemies using the navmesh every frame.
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://broremilolofsson.github.io/media/posts/6/Skaermbild-2023-10-12-193135.png" height="562" width="660" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremilolofsson.github.io/media/posts/6/responsive/Skaermbild-2023-10-12-193135-xs.png 320w ,https://broremilolofsson.github.io/media/posts/6/responsive/Skaermbild-2023-10-12-193135-sm.png 480w ,https://broremilolofsson.github.io/media/posts/6/responsive/Skaermbild-2023-10-12-193135-md.png 768w ,https://broremilolofsson.github.io/media/posts/6/responsive/Skaermbild-2023-10-12-193135-xl.png 1024w">
+      
+    </figure>
+
+    <h3 id="enemies">
+      Enemies
+    </h3>
+
+  <p>
+    I created the behaviors for both enemy types (grunt and mage). This included creating a behavior tree from scratch and implementing the different leaf nodes that were going to perform some action.
+  </p>
+
+  <p>
+    To make the movement more smooth I also implemented steering behaviors and a movement controller that the enemies used. This allowed the enemies not to walk into each other (using separation) and feel more realistic.
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://broremilolofsson.github.io/media/posts/6/Skaermbild-2024-02-01-131521.png" height="649" width="919" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremilolofsson.github.io/media/posts/6/responsive/Skaermbild-2024-02-01-131521-xs.png 320w ,https://broremilolofsson.github.io/media/posts/6/responsive/Skaermbild-2024-02-01-131521-sm.png 480w ,https://broremilolofsson.github.io/media/posts/6/responsive/Skaermbild-2024-02-01-131521-md.png 768w ,https://broremilolofsson.github.io/media/posts/6/responsive/Skaermbild-2024-02-01-131521-xl.png 1024w">
+      
+    </figure>
+
+    <h3 id="collision-system">
+      Collision System
+    </h3>
+
+  <p>
+    I created a collision system from scratch, supporting different shape types including: AABB, Sphere, OBB, Point, Ray collisions.
+  </p>
+
+  <p>
+    The system supports layer filtering which was used to filter different collisions, allowing us to not let the player abilities collide with the player for example.
+  </p>
+
+    <h3 id="trigger-system">
+      Trigger System
+    </h3>
+
+  <p>
+    I updated and refined my system from the "Stella's Quest" project. This included the introduction of a new concept I called "Condition". The new "Event" class has a "Condition" and a corresponding "Action", allowing for very modular behaviors. The events are consequently polled every frame to check if the condition has been met, and if so, the action is executed.
+  </p>
+
+  <p>
+    
+  </p>
             ]]>
         </content>
     </entry>
@@ -83,19 +185,23 @@
         <id>https://broremilolofsson.github.io/projects.html</id>
         <media:content url="https://broremilolofsson.github.io/media/posts/5/Skaermbild-2023-12-19-160924.png" medium="image" />
 
-        <updated>2024-03-13T13:50:37+01:00</updated>
+        <updated>2024-03-18T17:36:03+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://broremilolofsson.github.io/media/posts/5/Skaermbild-2023-12-19-160924.png" alt="" />
-                    This is Stella's Quest
+                    Project Specifications Engine: TGE (school engine) Duration: 8 weeks I started implementing&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://broremilolofsson.github.io/media/posts/5/Skaermbild-2023-12-19-160924.png" class="type:primaryImage" alt="" /></p>
                 
+    <h4 id="project-specifications">
+      Project Specifications
+    </h4>
+
   <p>
-    This is Stella's Quest
+    Engine: TGE (school engine)<br>Duration: 8 weeks<br>
   </p>
 
     <h2 id="contributions" class="align-center">
@@ -103,11 +209,48 @@
     </h2>
 
   <ul>
-    <li>Scripted event system</li><li>Unity tools for Level designers</li><li>Export/Import pipeline of scripted events</li><li>Collectables</li>
+    <li>Scripted event system</li><li>Unity tools for Level designers</li><li>Camera controller</li><li>Export/Import pipeline of scripted events</li><li>Collectables</li>
   </ul>
 
+    <h3 id="scripted-event-system">
+      Scripted Event System
+    </h3>
+
   <p>
-    
+    I started implementing a system that could handle different scripted events. For example:<br>When the player walks on a specific tile:<br> -&gt; The player is forced to walk to a specific tile<br> -&gt; Enemies spawn and doors close<br> -&gt; Once all the enemies have been killed<br> -&gt; The doors opens<br>
+  </p>
+
+  <p>
+    I realized that this logic could be abstracted to having different "<strong>Actions</strong>" that were activated on command. The core of the system is having a base class called "<strong>Action</strong>" and have different behaviors derive from this class.
+  </p>
+
+  <p>
+    At the moment an action is executed it will register itself to a static container that handles the execution of the current active actions. The action will then update until it thinks that it doesn't need to update anymore meaning the action itself decides when it will stop updating.&nbsp;
+  </p>
+
+  <p>
+    The system becomes more useful when implementing different "<strong>Composite Actions</strong>", such as "<strong>ActionSequence</strong>" and "<strong>ActionDependency</strong>", the first mentioned simply updating the actions in order and the latter updating all actions at once until all have finished executing.
+  </p>
+
+  <p>
+    The above problem could then be solved using an "ActionSequence" that contains the behaviors in order.
+  </p>
+
+    <h3 id="unity-tools">
+      Unity Tools
+    </h3>
+
+  <p>
+    The scripted events in the game was created by level designers as it created a more modular pipeline. The level designers could select different events to happen when the player walked on specified tiles.&nbsp;
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://broremilolofsson.github.io/media/posts/5/Skaermbild-2024-03-18-171757.png" height="438" width="449" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremilolofsson.github.io/media/posts/5/responsive/Skaermbild-2024-03-18-171757-xs.png 320w ,https://broremilolofsson.github.io/media/posts/5/responsive/Skaermbild-2024-03-18-171757-sm.png 480w ,https://broremilolofsson.github.io/media/posts/5/responsive/Skaermbild-2024-03-18-171757-md.png 768w ,https://broremilolofsson.github.io/media/posts/5/responsive/Skaermbild-2024-03-18-171757-xl.png 1024w">
+      <figcaption>Level design tool in Unity to create an Arena Event</figcaption>
+    </figure>
+
+  <p>
+    The data was exported to the TGE project to create the corresponding actions.
   </p>
             ]]>
         </content>
@@ -121,11 +264,11 @@
         <id>https://broremilolofsson.github.io/visual-scripting.html</id>
         <media:content url="https://broremilolofsson.github.io/media/posts/4/Skaermbild-2023-09-15-102233.png" medium="image" />
 
-        <updated>2024-03-13T14:05:32+01:00</updated>
+        <updated>2024-03-18T17:35:32+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://broremilolofsson.github.io/media/posts/4/Skaermbild-2023-09-15-102233.png" alt="" />
-                    This is my visual scripting page Fjdfskd
+                    This is my visual scripting page Implementing a modular gameplay system is&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -136,12 +279,28 @@
     This is my visual scripting page
   </p>
 
-  <p>
-    Fjdfskd
-  </p>
+    <h3 id="background">
+      Background
+    </h3>
 
   <p>
-    
+    Implementing a modular gameplay system is something that has intrigued me since the start of the <a href="https://broremilolofsson.github.io/projects.html" target="_blank">Stella's Quest</a> project.&nbsp;
+  </p>
+
+    <h3 id="programming-interface">
+      Programming Interface
+    </h3>
+
+  <p>
+    The most important part of creating systems and APIs in my experience is the interface to the user. The interface should be simple and effective, both for programmers, when implementing new nodes, and for level designers, when creating the actual game logic visually.&nbsp;
+  </p>
+
+    <h3 id="memory">
+      Memory
+    </h3>
+
+  <p>
+    The core concept of the memory in the system is that all the&nbsp;<strong>inputs</strong> of a node allocate memory while the outputs of a node are simply connections to another memory allocation of the same type.
   </p>
             ]]>
         </content>
