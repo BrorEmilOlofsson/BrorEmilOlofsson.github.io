@@ -3,7 +3,7 @@
     <title>Portfolio</title>
     <link href="https://broremilolofsson.github.io/feed.xml" rel="self" />
     <link href="https://broremilolofsson.github.io" />
-    <updated>2024-03-18T17:43:54+01:00</updated>
+    <updated>2024-03-18T18:37:48+01:00</updated>
     <author>
         <name>Emil Olofsson</name>
     </author>
@@ -85,7 +85,7 @@
         <media:content url="https://broremilolofsson.github.io/media/posts/6/Skaermbild-2023-11-02-112217.png" medium="image" />
             <category term="Tag 1"/>
 
-        <updated>2024-03-18T17:43:54+01:00</updated>
+        <updated>2024-03-18T18:37:48+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://broremilolofsson.github.io/media/posts/6/Skaermbild-2023-11-02-112217.png" alt="" />
@@ -129,8 +129,8 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://broremilolofsson.github.io/media/posts/6/Skaermbild-2023-10-12-193135.png" height="562" width="660" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremilolofsson.github.io/media/posts/6/responsive/Skaermbild-2023-10-12-193135-xs.png 320w ,https://broremilolofsson.github.io/media/posts/6/responsive/Skaermbild-2023-10-12-193135-sm.png 480w ,https://broremilolofsson.github.io/media/posts/6/responsive/Skaermbild-2023-10-12-193135-md.png 768w ,https://broremilolofsson.github.io/media/posts/6/responsive/Skaermbild-2023-10-12-193135-xl.png 1024w">
-      
+      <img loading="lazy" src="https://broremilolofsson.github.io/media/posts/6/OutsideNavmesh.gif" height="1005" width="1845" alt="" >
+      <figcaption>The closest point inside the navmesh is calculated when clicking outside</figcaption>
     </figure>
 
     <h3 id="enemies">
@@ -161,6 +161,11 @@
   <p>
     The system supports layer filtering which was used to filter different collisions, allowing us to not let the player abilities collide with the player for example.
   </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://broremilolofsson.github.io/media/posts/6/SpearThrowCollision.gif" height="977" width="1888" alt="" >
+      
+    </figure>
 
     <h3 id="trigger-system">
       Trigger System
