@@ -14,8 +14,8 @@
             "id": "https://broremilolofsson.github.io/the-negotiators.html",
             "url": "https://broremilolofsson.github.io/the-negotiators.html",
             "title": "The Negotiators",
-            "summary": "Project Description Engine: Fraktal Oktav (in-house) Duration: 15 weeks In this project&hellip;",
-            "content_html": "\n    <h4 id=\"project-description\" class=\"align-center\">\n      Project Description\n    </h4>\n\n  <p>\n    Engine: Fraktal Oktav (in-house)<br>Duration: 15 weeks<br>\n  </p>\n\n    <h2 id=\"contributions\" class=\"align-center\">\n      Contributions\n    </h2>\n\n  <ul>\n    <li>Editor</li><li>Node Scripting</li><li>Scene Management</li>\n  </ul>\n\n    <h3 id=\"editor\">\n      Editor\n    </h3>\n\n  <p>\n    In this project I focused mainly on enhancing our engine's editor. This included having a \"Scene\" view with it's own camera so the user can roam around the scene freely, pause and play options, and data management.\n  </p>\n\n    <h3 id=\"node-scripting\">\n      Node Scripting\n    </h3>\n\n  <p>\n    I created my own node scripting system from scratch, for more info see: <a href=\"https://broremilolofsson.github.io/visual-scripting.html\" target=\"_blank\">Visual Scripting</a>\n  </p>\n\n    <h3 id=\"scene-management\">\n      Scene Management\n    </h3>\n\n  <p>\n    As we still used Unity as our editor, we had to be reliant on the Unity-IDs that they generate. This created problems as we couldn't use these IDs to save data about our engine created objects and to link any objects to other parts of the engine (such as node scripting).\n  </p>\n\n  <p>\n    The solution was to allow for the scenes handling to be handled completely from our engine. This included serialization and deserialization of scenes using Json.\n  </p>",
+            "summary": "Project Description Engine: Fraktal Oktav (in-house) Duration: 15 weeksfdsfdgsdg In this project&hellip;",
+            "content_html": "\n    <h4 id=\"project-description\" class=\"align-center\">\n      Project Description\n    </h4>\n\n  <p>\n    Engine: Fraktal Oktav (in-house)<br>Duration: 15 weeksfdsfdgsdg<br>\n  </p>\n\n    <h2 id=\"contributions\" class=\"align-center\">\n      Contributions\n    </h2>\n\n  <ul>\n    <li>Editor</li><li>Node Scripting</li><li>Scene Management</li>\n  </ul>\n\n    <h3 id=\"editor\">\n      Editor\n    </h3>\n\n  <p>\n    In this project I focused mainly on enhancing our engine's editor. This included having a \"Scene\" view with it's own camera so the user can roam around the scene freely, pause and play options, and data management.\n  </p>\n\n    <h3 id=\"node-scripting\">\n      Node Scripting\n    </h3>\n\n  <p>\n    I created my own node scripting system from scratch, for more info see: <a href=\"https://broremilolofsson.github.io/visual-scripting.html\" target=\"_blank\">Visual Scripting</a>\n  </p>\n\n    <h3 id=\"scene-management\">\n      Scene Management\n    </h3>\n\n  <p>\n    As we still used Unity as our editor, we had to be reliant on the Unity-IDs that they generate. This created problems as we couldn't use these IDs to save data about our engine created objects and to link any objects to other parts of the engine (such as node scripting).\n  </p>\n\n  <p>\n    The solution was to allow for the scenes handling to be handled completely from our engine. This included serialization and deserialization of scenes using Json.\n  </p>",
             "image": "https://broremilolofsson.github.io/media/posts/7/Skaermbild-2024-02-13-180216.png",
             "author": {
                 "name": "Emil Olofsson"
@@ -23,7 +23,7 @@
             "tags": [
             ],
             "date_published": "2024-03-13T13:59:18+01:00",
-            "date_modified": "2024-03-18T17:37:05+01:00"
+            "date_modified": "2024-03-19T10:19:56+01:00"
         },
         {
             "id": "https://broremilolofsson.github.io/spite-new-sun.html",
