@@ -3,7 +3,7 @@
     <title>Portfolio</title>
     <link href="https://broremilolofsson.github.io/feed.xml" rel="self" />
     <link href="https://broremilolofsson.github.io" />
-    <updated>2024-03-19T10:19:56+01:00</updated>
+    <updated>2024-03-22T12:01:54+01:00</updated>
     <author>
         <name>Emil Olofsson</name>
     </author>
@@ -190,7 +190,7 @@
         <id>https://broremilolofsson.github.io/projects.html</id>
         <media:content url="https://broremilolofsson.github.io/media/posts/5/Skaermbild-2023-12-19-160924.png" medium="image" />
 
-        <updated>2024-03-18T17:36:03+01:00</updated>
+        <updated>2024-03-22T12:01:54+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://broremilolofsson.github.io/media/posts/5/Skaermbild-2023-12-19-160924.png" alt="" />
@@ -214,7 +214,7 @@
     </h2>
 
   <ul>
-    <li>Scripted event system</li><li>Unity tools for Level designers</li><li>Camera controller</li><li>Export/Import pipeline of scripted events</li><li>Collectables</li>
+    <li>Scripted event system</li><li>Unity tools for Level designers</li><li>Camera controller</li><li>Export/Import pipeline of scripted events</li><li>Collectables</li><li>Hello World</li>
   </ul>
 
     <h3 id="scripted-event-system">
