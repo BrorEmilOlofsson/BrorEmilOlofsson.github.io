@@ -5,7 +5,7 @@
     "home_page_url": "https://broremilolofsson.github.io",
     "feed_url": "https://broremilolofsson.github.io/feed.json",
     "user_comment": "",
-    "icon": "https://broremilolofsson.github.io/media/website/ActionSystem.png",
+    "icon": "https://broremilolofsson.github.io/media/website/Skaermbild-2024-04-03-172014.png",
     "author": {
         "name": "Emil Olofsson"
     },
@@ -23,7 +23,7 @@
             "tags": [
             ],
             "date_published": "2024-04-03T13:43:03+02:00",
-            "date_modified": "2024-04-03T14:45:13+02:00"
+            "date_modified": "2024-04-03T19:15:26+02:00"
         },
         {
             "id": "https://broremilolofsson.github.io/the-negotiators.html",
@@ -46,14 +46,14 @@
             "title": "Project: Spite: New Sun",
             "summary": "Project Description Engine: Fraktal Oktav (in-house) and Unity (editor) Duration: 12 weeks&hellip;",
             "content_html": "\n    <h2 id=\"project-description\" class=\"align-center\">\n      Project Description\n    </h2>\n\n  <p>\n    Engine: Fraktal Oktav (in-house) and Unity (editor)<br>Duration: 12 weeks<br>Genre: Hack and slash (Diablo-like)<br>\n  </p>\n\n    <h2 id=\"contributions\" class=\"align-center\">\n      Contributions\n    </h2>\n\n  <ul>\n    <li>Navmesh (A* and Funneling)</li><li>Enemies (Behavior Tree)</li><li>Collision System</li><li>Trigger System</li>\n  </ul>\n\n    <h3 id=\"navmesh\">\n      Navmesh\n    </h3>\n\n  <p>\n    I implemented navigation on a navmesh that we used in this project. This included implementing the A*-algorithm and the funneling-algorithm in order to find the shortest path for an agent to take.\n  </p>\n\n  <p>\n    The implementation included raycasting on the navmesh to find where the user clicked and finding the closest point inside the navmesh when clicking outside.\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://broremilolofsson.github.io/media/posts/6/NavmeshP6.gif\" height=\"977\" width=\"1888\" alt=\"\" >\n      <figcaption>The closest point inside the navmesh is calculated when clicking outside</figcaption>\n    </figure>\n\n    <h3 id=\"enemies\">\n      Enemies\n    </h3>\n\n  <p>\n    I created the behaviors for both enemy types (grunt and mage). This included creating a behavior tree from scratch and implementing the different leaf nodes that were going to perform some action.\n  </p>\n\n  <p>\n    To make the movement more smooth I also implemented steering behaviors and a movement controller that the enemies used. This allowed the enemies not to walk into each other (using separation) and feel more realistic.\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://broremilolofsson.github.io/media/posts/6/KillEnemiesP6.gif\" height=\"977\" width=\"1888\" alt=\"\" >\n      \n    </figure>\n\n    <h3 id=\"collision-system\">\n      Collision System\n    </h3>\n\n  <p>\n    I created a collision system from scratch, supporting different shape types including: AABB, Sphere, OBB, Point, Ray collisions.\n  </p>\n\n  <p>\n    The system supports layer filtering which was used to filter different collisions, allowing us to not let the player abilities collide with the player for example.\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://broremilolofsson.github.io/media/posts/6/CollisionEnemyKillP7-2.gif\" height=\"977\" width=\"1888\" alt=\"\" >\n      \n    </figure>\n\n    <h3 id=\"trigger-system\">\n      Trigger System\n    </h3>\n\n  <p>\n    I updated and refined my system from the \"Stella's Quest\" project. This included the introduction of a new concept I called \"Condition\". The new \"Event\" class has a \"Condition\" and a corresponding \"Action\", allowing for very modular behaviors. The events are consequently polled every frame to check if the condition has been met, and if so, the action is executed.\n  </p>\n\n  <p>\n    In Unity, I upgraded the interface to be able to enhance the user experience.\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://broremilolofsson.github.io/media/posts/6/Skaermbild-2024-04-03-093659.png\" height=\"317\" width=\"714\" alt=\"\"  sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://broremilolofsson.github.io/media/posts/6/responsive/Skaermbild-2024-04-03-093659-xs.png 320w ,https://broremilolofsson.github.io/media/posts/6/responsive/Skaermbild-2024-04-03-093659-sm.png 480w ,https://broremilolofsson.github.io/media/posts/6/responsive/Skaermbild-2024-04-03-093659-md.png 768w ,https://broremilolofsson.github.io/media/posts/6/responsive/Skaermbild-2024-04-03-093659-xl.png 1024w\">\n      \n    </figure>",
-            "image": "https://broremilolofsson.github.io/media/posts/6/Skaermbild-2023-11-02-112217.png",
+            "image": "https://broremilolofsson.github.io/media/posts/6/Skaermbild-2023-10-20-172857.png",
             "author": {
                 "name": "Emil Olofsson"
             },
             "tags": [
             ],
             "date_published": "2024-03-13T13:16:56+01:00",
-            "date_modified": "2024-04-03T14:52:31+02:00"
+            "date_modified": "2024-04-03T19:14:31+02:00"
         },
         {
             "id": "https://broremilolofsson.github.io/projects.html",
