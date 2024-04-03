@@ -3,38 +3,135 @@
     <title>Portfolio</title>
     <link href="https://broremilolofsson.github.io/feed.xml" rel="self" />
     <link href="https://broremilolofsson.github.io" />
-    <updated>2024-04-02T17:10:34+02:00</updated>
+    <updated>2024-04-03T14:57:56+02:00</updated>
     <author>
         <name>Emil Olofsson</name>
     </author>
     <id>https://broremilolofsson.github.io</id>
 
     <entry>
-        <title>The Negotiators</title>
+        <title>Other Projects</title>
+        <author>
+            <name>Emil Olofsson</name>
+        </author>
+        <link href="https://broremilolofsson.github.io/other-projects.html"/>
+        <id>https://broremilolofsson.github.io/other-projects.html</id>
+        <media:content url="https://broremilolofsson.github.io/media/posts/8/MagicalGirl.gif" medium="image" />
+
+        <updated>2024-04-03T14:45:13+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://broremilolofsson.github.io/media/posts/8/MagicalGirl.gif" alt="" />
+                    Magical Girl: Delivery Service Project Description: Engine: TGE (school engine) / Unity&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://broremilolofsson.github.io/media/posts/8/MagicalGirl.gif" class="type:primaryImage" alt="" /></p>
+                
+    <h3 id="magical-girl-delivery-service">
+      Magical Girl: Delivery Service
+    </h3>
+
+  <p>
+    <strong>Project Description:</strong>
+  </p>
+
+  <p>
+    Engine: TGE (school engine) / Unity (editor)<br>Duration: 12 weeks<br>Genre: Platformer<br>
+  </p>
+
+  <p>
+    <strong>Contributions</strong>:
+  </p>
+
+  <ul>
+    <li>Export/Import</li><li>Animation State Handler</li><li>Enemy Drones</li><li>Scripted Events</li><li>Cutscenes</li>
+  </ul>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://broremilolofsson.github.io/media/posts/8/MagicalGirl2.gif" height="270" width="480" alt="" >
+      
+    </figure>
+
+    <h3 id="slothomancer">
+      Slothomancer
+    </h3>
+
+  <p>
+    <strong>Project Description:</strong>
+  </p>
+
+  <p>
+    Engine: Unity<br>Duration: 8 weeks<br>Genre: Puzzle<br>
+  </p>
+
+  <p>
+    <strong>Contributions:</strong>
+  </p>
+
+  <ul>
+    <li>Trap/Trigger system</li><li>Tools</li>
+  </ul>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://broremilolofsson.github.io/media/posts/8/Slothomancer.gif" height="270" width="480" alt="" >
+      
+    </figure>
+
+    <h3 id="squid-heist">
+      Squid Heist
+    </h3>
+
+  <p>
+    <strong>Project Description:</strong>
+  </p>
+
+  <p>
+    Engine: Unity<br>Duration: 8 weeks<br>Genre: Obstacle Game<br>
+  </p>
+
+  <p>
+    <strong>Contributions:</strong>
+  </p>
+
+  <ul>
+    <li>Camera</li><li>Progress Bar</li>
+  </ul>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://broremilolofsson.github.io/media/posts/8/SquistHeist.gif" height="270" width="480" alt="" >
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Project: The Negotiators</title>
         <author>
             <name>Emil Olofsson</name>
         </author>
         <link href="https://broremilolofsson.github.io/the-negotiators.html"/>
         <id>https://broremilolofsson.github.io/the-negotiators.html</id>
-        <media:content url="https://broremilolofsson.github.io/media/posts/7/Skaermbild-2024-02-13-180216.png" medium="image" />
+        <media:content url="https://broremilolofsson.github.io/media/posts/7/TheNegotiators.png" medium="image" />
 
-        <updated>2024-03-19T10:19:56+01:00</updated>
+        <updated>2024-04-03T14:57:56+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://broremilolofsson.github.io/media/posts/7/Skaermbild-2024-02-13-180216.png" alt="" />
-                    Project Description Engine: Fraktal Oktav (in-house) Duration: 15 weeksfdsfdgsdg In this project&hellip;
+                        <img src="https://broremilolofsson.github.io/media/posts/7/TheNegotiators.png" alt="" />
+                    Project Description Engine: Fraktal Oktav (in-house) and Unity (editor) Duration: 15 weeks&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://broremilolofsson.github.io/media/posts/7/Skaermbild-2024-02-13-180216.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://broremilolofsson.github.io/media/posts/7/TheNegotiators.png" class="type:primaryImage" alt="" /></p>
                 
-    <h4 id="project-description" class="align-center">
+    <h2 id="project-description" class="align-center">
       Project Description
-    </h4>
+    </h2>
 
   <p>
-    Engine: Fraktal Oktav (in-house)<br>Duration: 15 weeksfdsfdgsdg<br>
+    Engine: Fraktal Oktav (in-house) and Unity (editor)<br>Duration: 15 weeks<br>Genre: FPS<br>
   </p>
 
     <h2 id="contributions" class="align-center">
@@ -50,15 +147,32 @@
     </h3>
 
   <p>
-    In this project I focused mainly on enhancing our engine's editor. This included having a "Scene" view with it's own camera so the user can roam around the scene freely, pause and play options, and data management.
+    In this project I focused mainly on enhancing our engine's editor. This included:
   </p>
+
+  <ul>
+    <li>Scene view with free camera</li><li>Manipulating transforms from editor (ImGuizmo)</li><li>Debugging console</li><li>Scene handling</li><li>Data management<br></li><li>GameObject hierarchy<br></li><li>GameObject inspector</li>
+  </ul>
+
+  <p>
+    The editor was created using ImGui.
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://broremilolofsson.github.io/media/posts/7/Skaermbild-2024-04-03-092316.png" height="1079" width="1919" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremilolofsson.github.io/media/posts/7/responsive/Skaermbild-2024-04-03-092316-xs.png 320w ,https://broremilolofsson.github.io/media/posts/7/responsive/Skaermbild-2024-04-03-092316-sm.png 480w ,https://broremilolofsson.github.io/media/posts/7/responsive/Skaermbild-2024-04-03-092316-md.png 768w ,https://broremilolofsson.github.io/media/posts/7/responsive/Skaermbild-2024-04-03-092316-xl.png 1024w">
+      
+    </figure>
 
     <h3 id="node-scripting">
       Node Scripting
     </h3>
 
   <p>
-    I created my own node scripting system from scratch, for more info see: <a href="https://broremilolofsson.github.io/visual-scripting.html" target="_blank">Visual Scripting</a>
+    I created my own node scripting system from scratch, for more info see: <a href="https://broremilolofsson.github.io/visual-scripting.html">Node Scripting</a>
+  </p>
+
+  <p>
+    It was utilized for scene transitions, enemy spawning and conditional progression.
   </p>
 
     <h3 id="scene-management">
@@ -76,7 +190,7 @@
         </content>
     </entry>
     <entry>
-        <title>Spite: New Sun</title>
+        <title>Project: Spite: New Sun</title>
         <author>
             <name>Emil Olofsson</name>
         </author>
@@ -84,27 +198,27 @@
         <id>https://broremilolofsson.github.io/spite-new-sun.html</id>
         <media:content url="https://broremilolofsson.github.io/media/posts/6/Skaermbild-2023-11-02-112217.png" medium="image" />
 
-        <updated>2024-03-27T12:45:16+01:00</updated>
+        <updated>2024-04-03T14:52:31+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://broremilolofsson.github.io/media/posts/6/Skaermbild-2023-11-02-112217.png" alt="" />
-                    Project Description Engine: Fraktal Oktav (in-house) Duration: 12 weeks I implemented navigation&hellip;
+                    Project Description Engine: Fraktal Oktav (in-house) and Unity (editor) Duration: 12 weeks&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://broremilolofsson.github.io/media/posts/6/Skaermbild-2023-11-02-112217.png" class="type:primaryImage" alt="" /></p>
                 
-    <h3 id="project-description" class="align-center">
+    <h2 id="project-description" class="align-center">
       Project Description
-    </h3>
+    </h2>
 
   <p>
-    Engine: Fraktal Oktav (in-house)<br>Duration: 12 weeks<br>
+    Engine: Fraktal Oktav (in-house) and Unity (editor)<br>Duration: 12 weeks<br>Genre: Hack and slash (Diablo-like)<br>
   </p>
 
-    <h2 id="contribution" class="align-center">
-      Contribution
+    <h2 id="contributions" class="align-center">
+      Contributions
     </h2>
 
   <ul>
@@ -121,10 +235,6 @@
 
   <p>
     The implementation included raycasting on the navmesh to find where the user clicked and finding the closest point inside the navmesh when clicking outside.
-  </p>
-
-  <p>
-    I optimized the code to make it faster and in the end we could have up to 50 enemies using the navmesh every frame.
   </p>
 
     <figure class="post__image post__image--center">
@@ -175,37 +285,42 @@
   </p>
 
   <p>
-    
+    In Unity, I upgraded the interface to be able to enhance the user experience.
   </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://broremilolofsson.github.io/media/posts/6/Skaermbild-2024-04-03-093659.png" height="317" width="714" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremilolofsson.github.io/media/posts/6/responsive/Skaermbild-2024-04-03-093659-xs.png 320w ,https://broremilolofsson.github.io/media/posts/6/responsive/Skaermbild-2024-04-03-093659-sm.png 480w ,https://broremilolofsson.github.io/media/posts/6/responsive/Skaermbild-2024-04-03-093659-md.png 768w ,https://broremilolofsson.github.io/media/posts/6/responsive/Skaermbild-2024-04-03-093659-xl.png 1024w">
+      
+    </figure>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Stella&#x27;s Quest</title>
+        <title>Project: Stella&#x27;s Quest</title>
         <author>
             <name>Emil Olofsson</name>
         </author>
         <link href="https://broremilolofsson.github.io/projects.html"/>
         <id>https://broremilolofsson.github.io/projects.html</id>
-        <media:content url="https://broremilolofsson.github.io/media/posts/5/Skaermbild-2023-12-19-160924.png" medium="image" />
+        <media:content url="https://broremilolofsson.github.io/media/posts/5/StellasQuest.png" medium="image" />
 
-        <updated>2024-03-27T13:09:01+01:00</updated>
+        <updated>2024-04-03T14:55:37+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://broremilolofsson.github.io/media/posts/5/Skaermbild-2023-12-19-160924.png" alt="" />
-                    Project Specifications Engine: TGE (school engine) Duration: 8 weeks I started implementing&hellip;
+                        <img src="https://broremilolofsson.github.io/media/posts/5/StellasQuest.png" alt="" />
+                    Project Description Engine: TGE (school engine) / Unity (editor) Duration: 8 weeks&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://broremilolofsson.github.io/media/posts/5/Skaermbild-2023-12-19-160924.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://broremilolofsson.github.io/media/posts/5/StellasQuest.png" class="type:primaryImage" alt="" /></p>
                 
-    <h4 id="project-specifications">
-      Project Specifications
-    </h4>
+    <h2 id="project-description" class="align-center">
+      Project Description
+    </h2>
 
   <p>
-    Engine: TGE (school engine)<br>Duration: 8 weeks<br>
+    Engine: TGE (school engine) / Unity (editor)<br>Duration: 8 weeks<br>Genre: Adventure<br>
   </p>
 
     <h2 id="contributions" class="align-center">
@@ -213,7 +328,7 @@
     </h2>
 
   <ul>
-    <li>Scripted event system</li><li>Unity tools for Level designers</li><li>Camera controller</li><li>Export/Import pipeline of scripted events</li><li>Collectables</li><li>Hello World</li>
+    <li>Scripted event system</li><li>Unity tools for Level designers</li><li>Export/Import pipeline of scripted events</li><li>Camera controller<br></li><li>Collectables</li>
   </ul>
 
     <h3 id="scripted-event-system">
@@ -221,7 +336,7 @@
     </h3>
 
   <p>
-    I started implementing a system that could handle different scripted events. For example:<br>When the player walks on a specific tile:<br> -&gt; The player is forced to walk to a specific tile<br> -&gt; Enemies spawn and doors close<br> -&gt; Once all the enemies have been killed<br> -&gt; The doors opens<br>
+    I started implementing a system that could handle different scripted events. For example, when the player walks on a specific tile:<br> -&gt; The player is forced to walk to a specific tile<br> -&gt; Enemies spawn and doors close<br> -&gt; Once all the enemies have been killed<br> -&gt; The doors opens<br>
   </p>
 
   <p>
@@ -229,7 +344,7 @@
   </p>
 
   <p>
-    At the moment an action is executed it will register itself to a static container that handles the execution of the current active actions. The action will then update until it thinks that it doesn't need to update anymore meaning the action itself decides when it will stop updating.&nbsp;
+    At the moment an action is executed it will register itself to a static container that handles the execution of the current active actions. The action will then update until it thinks that it doesn't need to update anymore, meaning the action itself decides when it will stop updating.&nbsp;
   </p>
 
   <p>
@@ -242,7 +357,7 @@
 
     <figure class="post__image post__image--center">
       <img loading="lazy" src="https://broremilolofsson.github.io/media/posts/5/screen-capture-ezgif.com-video-to-gif-converter-2.gif" height="225" width="400" alt="" >
-      
+      <figcaption>The sequence in action</figcaption>
     </figure>
 
     <h3 id="unity-tools">
@@ -261,28 +376,45 @@
   <p>
     The data was exported to the TGE project to create the corresponding actions.
   </p>
+
+    <h3 id="camera-controller">
+      Camera Controller
+    </h3>
+
+  <p>
+    The game's levels typically employ a top-down camera following the player. However, the dungeon level features a static camera that transitions between rooms as the player enters each one.
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://broremilolofsson.github.io/media/posts/5/Stellas-Quest-Camera.gif" height="225" width="400" alt="" >
+      
+    </figure>
+
+  <p>
+    Transitions between the camera modes was also implemented, however not utilized in this game.
+  </p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Visual Scripting</title>
+        <title>Node Scripting</title>
         <author>
             <name>Emil Olofsson</name>
         </author>
         <link href="https://broremilolofsson.github.io/visual-scripting.html"/>
         <id>https://broremilolofsson.github.io/visual-scripting.html</id>
-        <media:content url="https://broremilolofsson.github.io/media/posts/4/Skaermbild-2023-09-15-102233.png" medium="image" />
+        <media:content url="https://broremilolofsson.github.io/media/posts/4/Skaermbild-2024-04-03-121314.png" medium="image" />
 
-        <updated>2024-04-02T17:10:34+02:00</updated>
+        <updated>2024-04-03T12:13:37+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://broremilolofsson.github.io/media/posts/4/Skaermbild-2023-09-15-102233.png" alt="" />
+                        <img src="https://broremilolofsson.github.io/media/posts/4/Skaermbild-2024-04-03-121314.png" alt="" />
                     This page contains an overview of a visual scripting system I have&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://broremilolofsson.github.io/media/posts/4/Skaermbild-2023-09-15-102233.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://broremilolofsson.github.io/media/posts/4/Skaermbild-2024-04-03-121314.png" class="type:primaryImage" alt="" /></p>
                 
   <p>
     This page contains an overview of a visual scripting system I have created.
@@ -301,7 +433,7 @@
     </h3>
 
   <p>
-    The most important part of creating systems and APIs in my experience is the interface to the user. The interface should be simple and effective, both for programmers, when implementing new nodes, and for level designers, when creating the actual game logic visually.
+    The most important part of creating systems and APIs, in my experience, is the interface to the user. The interface should be simple and effective, both for programmers, when implementing new nodes, and for level designers, when creating the actual game logic visually.
   </p>
 
   <p>
@@ -439,7 +571,7 @@
     </h3>
 
   <p>
-    Similar to Unreal Engine, the system also accommodates variables. The concept revolves around enabling users to store and manipulate variables using getters and setters within the scripting environment. This functionality creates dynamic scripting capabilities, enabling runtime modifications to the inputs utilized during execution.<br>
+    Similar to Unreal Engine, the system also accommodates variables. This allows users to store and manipulate variables using getter and setter nodes. This functionality creates dynamic scripting capabilities, enabling runtime modifications to the inputs utilized during execution.<br>
   </p>
 
     <figure class="post__image post__image--center">
