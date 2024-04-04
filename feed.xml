@@ -3,7 +3,7 @@
     <title>Portfolio</title>
     <link href="https://broremilolofsson.github.io/feed.xml" rel="self" />
     <link href="https://broremilolofsson.github.io" />
-    <updated>2024-04-03T19:15:26+02:00</updated>
+    <updated>2024-04-04T09:20:25+02:00</updated>
     <author>
         <name>Emil Olofsson</name>
     </author>
@@ -405,20 +405,36 @@
         <id>https://broremilolofsson.github.io/visual-scripting.html</id>
         <media:content url="https://broremilolofsson.github.io/media/posts/4/Skaermbild-2024-04-03-121314.png" medium="image" />
 
-        <updated>2024-04-03T12:13:37+02:00</updated>
+        <updated>2024-04-04T09:20:25+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://broremilolofsson.github.io/media/posts/4/Skaermbild-2024-04-03-121314.png" alt="" />
-                    This page contains an overview of a visual scripting system I have&hellip;
+                    Summary This page contains an overview of a node scripting system I&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://broremilolofsson.github.io/media/posts/4/Skaermbild-2024-04-03-121314.png" class="type:primaryImage" alt="" /></p>
                 
+    <h3 id="summary">
+      Summary
+    </h3>
+
   <p>
-    This page contains an overview of a visual scripting system I have created.
+    This page contains an overview of a node scripting system I have created. From a level design perspective the system supports:
   </p>
+
+  <ul>
+    <li>Custom Events</li><li>Variables</li><li>Command Tracking / Undo + Redo functionality<br></li>
+  </ul>
+
+  <p>
+    From a programmer's perspective the system supports:
+  </p>
+
+  <ul>
+    <li>Function based nodes</li><li>Custom data type handling</li>
+  </ul>
 
     <h3 id="background">
       Background
@@ -451,15 +467,27 @@
     </figure>
 
   <p>
-    Since a function in most languages, C++ included, only allows one return value, std::tuple was utilized to enable functions to return multiple values in a single data structure.
+    Since a function in most languages, C++ included, only allows one return value, the container std::tuple was utilized to enable functions to return multiple values in a single data structure.
+  </p>
+
+    <h3 id="execution">
+      Execution
+    </h3>
+
+  <p>
+    The execution part of the code uses a type called <strong>Flow </strong>that acts as the control flow of the program. We can check in compile time if a node has a Flow output, and if that's the case we trigger the connected node to the flow pin.
   </p>
 
   <p>
-    The execution part of the code is uses a type called <strong>Flow </strong>that acts as the control flow of the program. We can check in compile time if a node has a Flow output, and if that's the case we trigger the connected node to the flow pin.
+    When executing a node, the program does the following:
   </p>
 
-    <h3 id="memory">
-      Memory
+  <ol>
+    <li>Retrieves the input data of the node</li><li>Calls the function and retrieves its output data</li><li>Set the output data of the node</li>
+  </ol>
+
+    <h3 id="memory-management">
+      Memory Management
     </h3>
 
   <p>
@@ -476,7 +504,7 @@
   </p>
 
   <p>
-    The memory pool realizes when it is out of memory and reallocates it's memory internally, while simultaneously increasing it's size, just like a vector.
+    The memory pool realizes when it is out of memory and reallocates its memory internally, while simultaneously increasing it's size, just like a vector.
   </p>
 
   <p>
@@ -506,7 +534,7 @@
     </figure>
 
   <p>
-    To begin, the type needs the overloaded functions "Edit", "Save" and "Load". When registering the type, the system itself figures out which overloaded function to call in compile time.
+    For example, when implementing a custom data type, the type needs the overloaded functions "Edit", "Save" and "Load". When registering the type, the system itself figures out which overloaded function to call in compile time.
   </p>
 
     <figure class="post__image post__image--center">
@@ -549,7 +577,7 @@
   </p>
 
   <p>
-    Custom event nodes is something that Unreal Engine has. The user can call the event at any time in the graph using a "caller node" and the functionality attached to the "executor node" will be executed.
+    Custom event nodes, inspired by those found in Unreal Engine, are implemented in my system.&nbsp;The user can call the event at any time in the graph using a "caller node" and the functionality attached to the "executor node" will be executed.
   </p>
 
     <figure class="post__image post__image--center">
