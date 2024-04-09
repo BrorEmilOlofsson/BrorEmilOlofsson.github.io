@@ -3,7 +3,7 @@
     <title>Emil Olofsson - Portfolio</title>
     <link href="https://broremilolofsson.github.io/feed.xml" rel="self" />
     <link href="https://broremilolofsson.github.io" />
-    <updated>2024-04-08T15:54:49+02:00</updated>
+    <updated>2024-04-09T14:29:33+02:00</updated>
     <author>
         <name>Emil Olofsson</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://broremilolofsson.github.io/about-me.html"/>
         <id>https://broremilolofsson.github.io/about-me.html</id>
 
-        <updated>2024-04-08T15:54:49+02:00</updated>
+        <updated>2024-04-09T14:00:44+02:00</updated>
             <summary>
                 <![CDATA[
                     Hi there! I'm currently on the lookout for an internship as a&hellip;
@@ -26,7 +26,7 @@
         <content type="html">
             <![CDATA[
                 <p>Hi there! I'm currently on the lookout for an internship as a tools and engine programmer. My expertise lies in C++, and I'm passionate about building systems that bridge various disciplines together. </p>
-<p>I gained my game programming experience during 2 years at The Game Assembly in Stockholm. During this time, I contributed to the development of 8 games, utilizing various engines, including one developed by our own group.</p>
+<p>I am currently studying at The Game Assembly in Stockholm. During this time, I have contributed to the development of 8 games, utilizing various engines, including one developed by our own group.</p>
 <figure class="post__image align-left"><span style="color: #ffffff;"><img loading="lazy"  src="https://broremilolofsson.github.io/media/posts/9/sp22emilolofsson-340x425.png" alt="" width="141" height="176" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremilolofsson.github.io/media/posts/9/responsive/sp22emilolofsson-340x425-xs.png 320w ,https://broremilolofsson.github.io/media/posts/9/responsive/sp22emilolofsson-340x425-sm.png 480w ,https://broremilolofsson.github.io/media/posts/9/responsive/sp22emilolofsson-340x425-md.png 768w ,https://broremilolofsson.github.io/media/posts/9/responsive/sp22emilolofsson-340x425-xl.png 1024w"></figure></span></p>
 <h4>Contacts:</h4>
 <p class="msg msg--highlight   msg--info"><a href="mailto:bror.emil.olofsson@gmail.com">bror.emil.olofsson@gmail.com</a><br><a href="https://www.linkedin.com/in/emil-olofsson-0981162ba/">LinkedIn</a></p>
@@ -434,33 +434,33 @@
         </author>
         <link href="https://broremilolofsson.github.io/visual-scripting.html"/>
         <id>https://broremilolofsson.github.io/visual-scripting.html</id>
-        <media:content url="https://broremilolofsson.github.io/media/posts/4/Skaermbild-2024-04-03-121314.png" medium="image" />
+        <media:content url="https://broremilolofsson.github.io/media/posts/4/CreatingNodes5.gif" medium="image" />
 
-        <updated>2024-04-08T13:49:23+02:00</updated>
+        <updated>2024-04-09T14:29:33+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://broremilolofsson.github.io/media/posts/4/Skaermbild-2024-04-03-121314.png" alt="" />
+                        <img src="https://broremilolofsson.github.io/media/posts/4/CreatingNodes5.gif" alt="" />
                     Summary This page contains an overview of a node scripting system I&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://broremilolofsson.github.io/media/posts/4/Skaermbild-2024-04-03-121314.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://broremilolofsson.github.io/media/posts/4/CreatingNodes5.gif" class="type:primaryImage" alt="" /></p>
                 
     <h3 id="summary">
       Summary
     </h3>
 
   <p>
-    This page contains an overview of a node scripting system I have created. From a level design perspective the system supports:
+    This page contains an overview of a node scripting system I have created. From a level design perspective, the system supports:
   </p>
 
   <ul>
-    <li>Custom Events</li><li>Variables</li><li>Command Tracking / Undo + Redo functionality<br></li>
+    <li>General behavior scripting (Creating logic visually)</li><li>Custom Events</li><li>Variables</li><li>Command Tracking / Undo + Redo functionality<br></li>
   </ul>
 
   <p>
-    From a programmer's perspective the system supports:
+    From a programmer's perspective, the system supports:
   </p>
 
   <ul>
@@ -498,7 +498,7 @@
     </figure>
 
   <p>
-    Since a function in most languages, C++ included, only allows one return value, the container std::tuple was utilized to enable functions to return multiple values in a single data structure.
+    Since a function in most languages, C++ included, only allows one return value, the container <a href="https://en.cppreference.com/w/cpp/utility/tuple">std::tuple</a> was utilized to enable functions to return multiple values in a single data structure.
   </p>
 
     <h3 id="execution">
@@ -608,7 +608,7 @@
   </p>
 
   <p>
-    Custom event nodes, inspired by those found in Unreal Engine, are implemented in my system.&nbsp;The user can call the event at any time in the graph using a "caller node" and the functionality attached to the "executor node" will be executed.
+    Custom event nodes, inspired by <a href="https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Blueprints/UserGuide/Events/Custom/">those found in Unreal Engine</a>, are implemented in my system.&nbsp;The user can call the event at any time in the graph using a "caller node" and the functionality attached to the "executor node" will be executed.
   </p>
 
     <figure class="post__image post__image--center">
@@ -630,7 +630,7 @@
     </h3>
 
   <p>
-    Similar to Unreal Engine, the system also accommodates variables. This allows users to store and manipulate variables using getter and setter nodes. This functionality creates dynamic scripting capabilities, enabling runtime modifications to the inputs utilized during execution.<br>
+    Similar to Unreal Engine, the system also accommodates <a href="https://docs.unrealengine.com/4.26/en-US/ProgrammingAndScripting/Blueprints/UserGuide/Variables/">variables</a>. This allows users to store and manipulate variables using getter and setter nodes. This functionality creates dynamic scripting capabilities, enabling runtime modifications to the inputs used during execution.<br>
   </p>
 
     <figure class="post__image post__image--center">
