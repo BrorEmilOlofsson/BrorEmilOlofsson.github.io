@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Emil Olofsson - Portfolio</title>
-    <link href="https://broremilolofsson.github.io/feed.xml" rel="self" />
-    <link href="https://broremilolofsson.github.io" />
+    <link href="https://broremil.se/feed.xml" rel="self" />
+    <link href="https://broremil.se" />
     <updated>2024-04-10T11:08:43+02:00</updated>
     <author>
         <name>Emil Olofsson</name>
     </author>
-    <id>https://broremilolofsson.github.io</id>
+    <id>https://broremil.se</id>
 
     <entry>
         <title>About Me</title>
         <author>
             <name>Emil Olofsson</name>
         </author>
-        <link href="https://broremilolofsson.github.io/about-me.html"/>
-        <id>https://broremilolofsson.github.io/about-me.html</id>
+        <link href="https://broremil.se/about-me.html"/>
+        <id>https://broremil.se/about-me.html</id>
 
         <updated>2024-04-10T10:23:03+02:00</updated>
             <summary>
@@ -27,9 +27,9 @@
             <![CDATA[
                 <p>Hi there! My name is Emil Olofsson and I'm currently on the lookout for an internship as an engine and tools programmer. My expertise lies in C++, and I'm passionate about building systems that bridge various disciplines together. </p>
 <p>I am currently studying at The Game Assembly in Stockholm. During this time, I have contributed to the development of 8 games, utilizing various engines, including one developed by our own group.</p>
-<figure class="post__image align-left"><span style="color: #ffffff;"><img loading="lazy"  src="https://broremilolofsson.github.io/media/posts/9/sp22emilolofsson-340x425.png" alt="" width="141" height="176" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremilolofsson.github.io/media/posts/9/responsive/sp22emilolofsson-340x425-xs.png 320w ,https://broremilolofsson.github.io/media/posts/9/responsive/sp22emilolofsson-340x425-sm.png 480w ,https://broremilolofsson.github.io/media/posts/9/responsive/sp22emilolofsson-340x425-md.png 768w ,https://broremilolofsson.github.io/media/posts/9/responsive/sp22emilolofsson-340x425-xl.png 1024w"></figure></span></p>
+<figure class="post__image align-left"><span style="color: #ffffff;"><img loading="lazy"  src="https://broremil.se/media/posts/9/sp22emilolofsson-340x425.png" alt="" width="141" height="176" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremil.se/media/posts/9/responsive/sp22emilolofsson-340x425-xs.png 320w ,https://broremil.se/media/posts/9/responsive/sp22emilolofsson-340x425-sm.png 480w ,https://broremil.se/media/posts/9/responsive/sp22emilolofsson-340x425-md.png 768w ,https://broremil.se/media/posts/9/responsive/sp22emilolofsson-340x425-xl.png 1024w"></figure></span></p>
 <h4>Contacts:</h4>
-<p class="msg--highlight  msg--info msg"><a href="mailto:bror.emil.olofsson@gmail.com">bror.emil.olofsson@gmail.com</a><br><a href="https://www.linkedin.com/in/emil-olofsson-0981162ba/">LinkedIn</a><br><a href="https://broremilolofsson.github.io/Emil Olofsson - Resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a></p>
+<p class="msg--highlight  msg--info msg"><a href="mailto:bror.emil.olofsson@gmail.com">bror.emil.olofsson@gmail.com</a><br><a href="https://www.linkedin.com/in/emil-olofsson-0981162ba/">LinkedIn</a><br><a href="https://broremil.se/Emil Olofsson - Resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a></p>
 <h4><strong>Disclaimer</strong></h4>
 <p class="msg msg--warning">I am part of The Game Assembly's internship program. ​<br>As per the agreement between the Games Industry and The Game Assembly, neither student nor company may be in contact with one another regarding internships before April 23rd. <br><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Any internship offers can be made on May 6th, at the earliest.</span></p>
             ]]>
@@ -40,20 +40,20 @@
         <author>
             <name>Emil Olofsson</name>
         </author>
-        <link href="https://broremilolofsson.github.io/other-projects.html"/>
-        <id>https://broremilolofsson.github.io/other-projects.html</id>
-        <media:content url="https://broremilolofsson.github.io/media/posts/8/MagicalGirl.gif" medium="image" />
+        <link href="https://broremil.se/other-projects.html"/>
+        <id>https://broremil.se/other-projects.html</id>
+        <media:content url="https://broremil.se/media/posts/8/MagicalGirl.gif" medium="image" />
 
         <updated>2024-04-09T16:13:01+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://broremilolofsson.github.io/media/posts/8/MagicalGirl.gif" alt="" />
+                        <img src="https://broremil.se/media/posts/8/MagicalGirl.gif" alt="" />
                     Magical Girl: Delivery Service Project Description: Engine: TGE (school engine) / Unity&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://broremilolofsson.github.io/media/posts/8/MagicalGirl.gif" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://broremil.se/media/posts/8/MagicalGirl.gif" class="type:primaryImage" alt="" /></p>
                 
     <h3 id="magical-girl-delivery-service">
       Magical Girl: Delivery Service
@@ -76,7 +76,7 @@
   </ul>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://broremilolofsson.github.io/media/posts/8/MagicalGirl2.gif" height="270" width="480" alt="" >
+      <img loading="lazy" src="https://broremil.se/media/posts/8/MagicalGirl2.gif" height="270" width="480" alt="" >
       
     </figure>
 
@@ -101,7 +101,7 @@
   </ul>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://broremilolofsson.github.io/media/posts/8/Slothomancer.gif" height="270" width="480" alt="" >
+      <img loading="lazy" src="https://broremil.se/media/posts/8/Slothomancer.gif" height="270" width="480" alt="" >
       
     </figure>
 
@@ -126,7 +126,7 @@
   </ul>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://broremilolofsson.github.io/media/posts/8/SquistHeist.gif" height="270" width="480" alt="" >
+      <img loading="lazy" src="https://broremil.se/media/posts/8/SquistHeist.gif" height="270" width="480" alt="" >
       
     </figure>
             ]]>
@@ -137,20 +137,20 @@
         <author>
             <name>Emil Olofsson</name>
         </author>
-        <link href="https://broremilolofsson.github.io/the-negotiators.html"/>
-        <id>https://broremilolofsson.github.io/the-negotiators.html</id>
-        <media:content url="https://broremilolofsson.github.io/media/posts/7/TheNegotiators.png" medium="image" />
+        <link href="https://broremil.se/the-negotiators.html"/>
+        <id>https://broremil.se/the-negotiators.html</id>
+        <media:content url="https://broremil.se/media/posts/7/TheNegotiators.png" medium="image" />
 
         <updated>2024-04-10T10:26:57+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://broremilolofsson.github.io/media/posts/7/TheNegotiators.png" alt="" />
+                        <img src="https://broremil.se/media/posts/7/TheNegotiators.png" alt="" />
                     Project Description Engine: Fraktal Oktav (in-house) and Unity (editor) Duration: 15 weeks&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://broremilolofsson.github.io/media/posts/7/TheNegotiators.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://broremil.se/media/posts/7/TheNegotiators.png" class="type:primaryImage" alt="" /></p>
                 
     <h2 id="project-description">
       Project Description
@@ -185,7 +185,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://broremilolofsson.github.io/media/posts/7/Skaermbild-2024-04-03-092316.png" height="1079" width="1919" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremilolofsson.github.io/media/posts/7/responsive/Skaermbild-2024-04-03-092316-xs.png 320w ,https://broremilolofsson.github.io/media/posts/7/responsive/Skaermbild-2024-04-03-092316-sm.png 480w ,https://broremilolofsson.github.io/media/posts/7/responsive/Skaermbild-2024-04-03-092316-md.png 768w ,https://broremilolofsson.github.io/media/posts/7/responsive/Skaermbild-2024-04-03-092316-xl.png 1024w">
+      <img loading="lazy" src="https://broremil.se/media/posts/7/Skaermbild-2024-04-03-092316.png" height="1079" width="1919" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremil.se/media/posts/7/responsive/Skaermbild-2024-04-03-092316-xs.png 320w ,https://broremil.se/media/posts/7/responsive/Skaermbild-2024-04-03-092316-sm.png 480w ,https://broremil.se/media/posts/7/responsive/Skaermbild-2024-04-03-092316-md.png 768w ,https://broremil.se/media/posts/7/responsive/Skaermbild-2024-04-03-092316-xl.png 1024w">
       
     </figure>
 
@@ -194,7 +194,7 @@
     </h3>
 
   <p>
-    I created my own node scripting system from scratch, for more info see: <a href="https://broremilolofsson.github.io/visual-scripting.html">Node Scripting</a>.
+    I created my own node scripting system from scratch, for more info see: <a href="https://broremil.se/visual-scripting.html">Node Scripting</a>.
   </p>
 
   <p>
@@ -202,7 +202,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://broremilolofsson.github.io/media/posts/7/EnemyRoomDoorOpen.gif" height="977" width="1888" alt="" >
+      <img loading="lazy" src="https://broremil.se/media/posts/7/EnemyRoomDoorOpen.gif" height="977" width="1888" alt="" >
       <figcaption>When killing the last enemy in the arena, the door opens, allowing the player to progress</figcaption>
     </figure>
 
@@ -225,20 +225,20 @@
         <author>
             <name>Emil Olofsson</name>
         </author>
-        <link href="https://broremilolofsson.github.io/spite-new-sun.html"/>
-        <id>https://broremilolofsson.github.io/spite-new-sun.html</id>
-        <media:content url="https://broremilolofsson.github.io/media/posts/6/SpiteNewSun-2.png" medium="image" />
+        <link href="https://broremil.se/spite-new-sun.html"/>
+        <id>https://broremil.se/spite-new-sun.html</id>
+        <media:content url="https://broremil.se/media/posts/6/SpiteNewSun-2.png" medium="image" />
 
         <updated>2024-04-09T15:17:12+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://broremilolofsson.github.io/media/posts/6/SpiteNewSun-2.png" alt="" />
+                        <img src="https://broremil.se/media/posts/6/SpiteNewSun-2.png" alt="" />
                     Project Description Engine: Fraktal Oktav (in-house) and Unity (editor) Duration: 12 weeks&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://broremilolofsson.github.io/media/posts/6/SpiteNewSun-2.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://broremil.se/media/posts/6/SpiteNewSun-2.png" class="type:primaryImage" alt="" /></p>
                 
     <h2 id="project-description">
       Project Description
@@ -269,7 +269,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://broremilolofsson.github.io/media/posts/6/NavmeshP6.gif" height="977" width="1888" alt="" >
+      <img loading="lazy" src="https://broremil.se/media/posts/6/NavmeshP6.gif" height="977" width="1888" alt="" >
       <figcaption>The closest point inside the navmesh is calculated when clicking outside</figcaption>
     </figure>
 
@@ -286,7 +286,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://broremilolofsson.github.io/media/posts/6/KillEnemiesP6.gif" height="977" width="1888" alt="" >
+      <img loading="lazy" src="https://broremil.se/media/posts/6/KillEnemiesP6.gif" height="977" width="1888" alt="" >
       
     </figure>
 
@@ -303,7 +303,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://broremilolofsson.github.io/media/posts/6/CollisionEnemyKillP7-2.gif" height="977" width="1888" alt="" >
+      <img loading="lazy" src="https://broremil.se/media/posts/6/CollisionEnemyKillP7-2.gif" height="977" width="1888" alt="" >
       
     </figure>
 
@@ -312,7 +312,7 @@
     </h3>
 
   <p>
-    I updated and refined my system from the <a href="https://broremilolofsson.github.io/projects.html">Stella's Quest</a>&nbsp;project. This included the introduction of a new concept I called "Condition". The new "Event" class has a "Condition" and a corresponding "Action", allowing for very modular behaviors. The events are consequently polled every frame to check if the condition has been met, and if so, the action is executed.
+    I updated and refined my system from the <a href="https://broremil.se/projects.html">Stella's Quest</a>&nbsp;project. This included the introduction of a new concept I called "Condition". The new "Event" class has a "Condition" and a corresponding "Action", allowing for very modular behaviors. The events are consequently polled every frame to check if the condition has been met, and if so, the action is executed.
   </p>
 
   <p>
@@ -320,7 +320,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://broremilolofsson.github.io/media/posts/6/Skaermbild-2024-04-03-093659.png" height="317" width="714" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremilolofsson.github.io/media/posts/6/responsive/Skaermbild-2024-04-03-093659-xs.png 320w ,https://broremilolofsson.github.io/media/posts/6/responsive/Skaermbild-2024-04-03-093659-sm.png 480w ,https://broremilolofsson.github.io/media/posts/6/responsive/Skaermbild-2024-04-03-093659-md.png 768w ,https://broremilolofsson.github.io/media/posts/6/responsive/Skaermbild-2024-04-03-093659-xl.png 1024w">
+      <img loading="lazy" src="https://broremil.se/media/posts/6/Skaermbild-2024-04-03-093659.png" height="317" width="714" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremil.se/media/posts/6/responsive/Skaermbild-2024-04-03-093659-xs.png 320w ,https://broremil.se/media/posts/6/responsive/Skaermbild-2024-04-03-093659-sm.png 480w ,https://broremil.se/media/posts/6/responsive/Skaermbild-2024-04-03-093659-md.png 768w ,https://broremil.se/media/posts/6/responsive/Skaermbild-2024-04-03-093659-xl.png 1024w">
       
     </figure>
             ]]>
@@ -331,20 +331,20 @@
         <author>
             <name>Emil Olofsson</name>
         </author>
-        <link href="https://broremilolofsson.github.io/projects.html"/>
-        <id>https://broremilolofsson.github.io/projects.html</id>
-        <media:content url="https://broremilolofsson.github.io/media/posts/5/StellasQuest.png" medium="image" />
+        <link href="https://broremil.se/projects.html"/>
+        <id>https://broremil.se/projects.html</id>
+        <media:content url="https://broremil.se/media/posts/5/StellasQuest.png" medium="image" />
 
         <updated>2024-04-09T15:17:06+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://broremilolofsson.github.io/media/posts/5/StellasQuest.png" alt="" />
+                        <img src="https://broremil.se/media/posts/5/StellasQuest.png" alt="" />
                     Project Description Engine: TGE (school engine) / Unity (editor) Duration: 8 weeks&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://broremilolofsson.github.io/media/posts/5/StellasQuest.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://broremil.se/media/posts/5/StellasQuest.png" class="type:primaryImage" alt="" /></p>
                 
     <h2 id="project-description" class="align-center">
       Project Description
@@ -387,7 +387,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://broremilolofsson.github.io/media/posts/5/screen-capture-ezgif.com-video-to-gif-converter-2.gif" height="225" width="400" alt="" >
+      <img loading="lazy" src="https://broremil.se/media/posts/5/screen-capture-ezgif.com-video-to-gif-converter-2.gif" height="225" width="400" alt="" >
       <figcaption>The first part of the sequence in action</figcaption>
     </figure>
 
@@ -400,7 +400,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://broremilolofsson.github.io/media/posts/5/Skaermbild-2024-03-18-171757.png" height="438" width="449" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremilolofsson.github.io/media/posts/5/responsive/Skaermbild-2024-03-18-171757-xs.png 320w ,https://broremilolofsson.github.io/media/posts/5/responsive/Skaermbild-2024-03-18-171757-sm.png 480w ,https://broremilolofsson.github.io/media/posts/5/responsive/Skaermbild-2024-03-18-171757-md.png 768w ,https://broremilolofsson.github.io/media/posts/5/responsive/Skaermbild-2024-03-18-171757-xl.png 1024w">
+      <img loading="lazy" src="https://broremil.se/media/posts/5/Skaermbild-2024-03-18-171757.png" height="438" width="449" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremil.se/media/posts/5/responsive/Skaermbild-2024-03-18-171757-xs.png 320w ,https://broremil.se/media/posts/5/responsive/Skaermbild-2024-03-18-171757-sm.png 480w ,https://broremil.se/media/posts/5/responsive/Skaermbild-2024-03-18-171757-md.png 768w ,https://broremil.se/media/posts/5/responsive/Skaermbild-2024-03-18-171757-xl.png 1024w">
       <figcaption>Level design tool in Unity to create an Arena Event</figcaption>
     </figure>
 
@@ -417,7 +417,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://broremilolofsson.github.io/media/posts/5/Stellas-Quest-Camera.gif" height="225" width="400" alt="" >
+      <img loading="lazy" src="https://broremil.se/media/posts/5/Stellas-Quest-Camera.gif" height="225" width="400" alt="" >
       
     </figure>
 
@@ -432,20 +432,20 @@
         <author>
             <name>Emil Olofsson</name>
         </author>
-        <link href="https://broremilolofsson.github.io/visual-scripting.html"/>
-        <id>https://broremilolofsson.github.io/visual-scripting.html</id>
-        <media:content url="https://broremilolofsson.github.io/media/posts/4/CreatingNodes5.gif" medium="image" />
+        <link href="https://broremil.se/visual-scripting.html"/>
+        <id>https://broremil.se/visual-scripting.html</id>
+        <media:content url="https://broremil.se/media/posts/4/CreatingNodes5.gif" medium="image" />
 
         <updated>2024-04-10T11:08:43+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://broremilolofsson.github.io/media/posts/4/CreatingNodes5.gif" alt="" />
+                        <img src="https://broremil.se/media/posts/4/CreatingNodes5.gif" alt="" />
                     What is node scripting? Node scripting is a way of creating game&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://broremilolofsson.github.io/media/posts/4/CreatingNodes5.gif" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://broremil.se/media/posts/4/CreatingNodes5.gif" class="type:primaryImage" alt="" /></p>
                 
     <h3 id="what-is-node-scripting">
       What is node scripting?
@@ -456,7 +456,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://broremilolofsson.github.io/media/posts/4/NodesExplained-2.png" height="232" width="427" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremilolofsson.github.io/media/posts/4/responsive/NodesExplained-2-xs.png 320w ,https://broremilolofsson.github.io/media/posts/4/responsive/NodesExplained-2-sm.png 480w ,https://broremilolofsson.github.io/media/posts/4/responsive/NodesExplained-2-md.png 768w ,https://broremilolofsson.github.io/media/posts/4/responsive/NodesExplained-2-xl.png 1024w">
+      <img loading="lazy" src="https://broremil.se/media/posts/4/NodesExplained-2.png" height="232" width="427" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremil.se/media/posts/4/responsive/NodesExplained-2-xs.png 320w ,https://broremil.se/media/posts/4/responsive/NodesExplained-2-sm.png 480w ,https://broremil.se/media/posts/4/responsive/NodesExplained-2-md.png 768w ,https://broremil.se/media/posts/4/responsive/NodesExplained-2-xl.png 1024w">
       
     </figure>
 
@@ -485,7 +485,7 @@
     </h3>
 
   <p>
-    Implementing a modular gameplay system is something that has intrigued me since the start of the <a href="https://broremilolofsson.github.io/projects.html" target="_blank">Stella's Quest</a> project. Since all of my previous systems have been inheritance based, I wanted to try to create something that didn't use classes and virtual functions to enable different behaviors.
+    Implementing a modular gameplay system is something that has intrigued me since the start of the <a href="https://broremil.se/projects.html" target="_blank">Stella's Quest</a> project. Since all of my previous systems have been inheritance based, I wanted to try to create something that didn't use classes and virtual functions to enable different behaviors.
   </p>
 
     <h3 id="programming-interface">
@@ -501,12 +501,12 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://broremilolofsson.github.io/media/posts/4/Skaermbild-2024-03-28-122602.png" height="187" width="542" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-03-28-122602-xs.png 320w ,https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-03-28-122602-sm.png 480w ,https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-03-28-122602-md.png 768w ,https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-03-28-122602-xl.png 1024w">
+      <img loading="lazy" src="https://broremil.se/media/posts/4/Skaermbild-2024-03-28-122602.png" height="187" width="542" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremil.se/media/posts/4/responsive/Skaermbild-2024-03-28-122602-xs.png 320w ,https://broremil.se/media/posts/4/responsive/Skaermbild-2024-03-28-122602-sm.png 480w ,https://broremil.se/media/posts/4/responsive/Skaermbild-2024-03-28-122602-md.png 768w ,https://broremil.se/media/posts/4/responsive/Skaermbild-2024-03-28-122602-xl.png 1024w">
       <figcaption>Registering a node to the system</figcaption>
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://broremilolofsson.github.io/media/posts/4/Skaermbild-2024-03-28-122930.png" height="262" width="372" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-03-28-122930-xs.png 320w ,https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-03-28-122930-sm.png 480w ,https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-03-28-122930-md.png 768w ,https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-03-28-122930-xl.png 1024w">
+      <img loading="lazy" src="https://broremil.se/media/posts/4/Skaermbild-2024-03-28-122930.png" height="262" width="372" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremil.se/media/posts/4/responsive/Skaermbild-2024-03-28-122930-xs.png 320w ,https://broremil.se/media/posts/4/responsive/Skaermbild-2024-03-28-122930-sm.png 480w ,https://broremil.se/media/posts/4/responsive/Skaermbild-2024-03-28-122930-md.png 768w ,https://broremil.se/media/posts/4/responsive/Skaermbild-2024-03-28-122930-xl.png 1024w">
       <figcaption>The generated visual representation of the node</figcaption>
     </figure>
 
@@ -543,7 +543,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://broremilolofsson.github.io/media/posts/4/Skaermbild-2024-04-02-091513.png" height="301" width="513" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-091513-xs.png 320w ,https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-091513-sm.png 480w ,https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-091513-md.png 768w ,https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-091513-xl.png 1024w">
+      <img loading="lazy" src="https://broremil.se/media/posts/4/Skaermbild-2024-04-02-091513.png" height="301" width="513" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-091513-xs.png 320w ,https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-091513-sm.png 480w ,https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-091513-md.png 768w ,https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-091513-xl.png 1024w">
       <figcaption>Example usage of a memory pool</figcaption>
     </figure>
 
@@ -572,12 +572,12 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://broremilolofsson.github.io/media/posts/4/Skaermbild-2024-04-02-102040.png" height="242" width="447" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-102040-xs.png 320w ,https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-102040-sm.png 480w ,https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-102040-md.png 768w ,https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-102040-xl.png 1024w">
+      <img loading="lazy" src="https://broremil.se/media/posts/4/Skaermbild-2024-04-02-102040.png" height="242" width="447" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-102040-xs.png 320w ,https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-102040-sm.png 480w ,https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-102040-md.png 768w ,https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-102040-xl.png 1024w">
       <figcaption>Overloaded functions for the "int" type</figcaption>
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://broremilolofsson.github.io/media/posts/4/Skaermbild-2024-04-02-105308.png" height="92" width="509" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-105308-xs.png 320w ,https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-105308-sm.png 480w ,https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-105308-md.png 768w ,https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-105308-xl.png 1024w">
+      <img loading="lazy" src="https://broremil.se/media/posts/4/Skaermbild-2024-04-02-105308.png" height="92" width="509" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-105308-xs.png 320w ,https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-105308-sm.png 480w ,https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-105308-md.png 768w ,https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-105308-xl.png 1024w">
       <figcaption>Registering of the type "int"</figcaption>
     </figure>
 
@@ -586,7 +586,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://broremilolofsson.github.io/media/posts/4/Skaermbild-2024-04-02-112540.png" height="184" width="436" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-112540-xs.png 320w ,https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-112540-sm.png 480w ,https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-112540-md.png 768w ,https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-112540-xl.png 1024w">
+      <img loading="lazy" src="https://broremil.se/media/posts/4/Skaermbild-2024-04-02-112540.png" height="184" width="436" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-112540-xs.png 320w ,https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-112540-sm.png 480w ,https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-112540-md.png 768w ,https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-112540-xl.png 1024w">
       <figcaption>Type erasure of the edit functionality</figcaption>
     </figure>
 
@@ -595,7 +595,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://broremilolofsson.github.io/media/posts/4/Skaermbild-2024-04-02-113450.png" height="146" width="338" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-113450-xs.png 320w ,https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-113450-sm.png 480w ,https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-113450-md.png 768w ,https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-113450-xl.png 1024w">
+      <img loading="lazy" src="https://broremil.se/media/posts/4/Skaermbild-2024-04-02-113450.png" height="146" width="338" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-113450-xs.png 320w ,https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-113450-sm.png 480w ,https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-113450-md.png 768w ,https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-113450-xl.png 1024w">
       <figcaption>Type erased interface that is generated for every registered type</figcaption>
     </figure>
 
@@ -604,7 +604,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://broremilolofsson.github.io/media/posts/4/Skaermbild-2024-04-02-120505.png" height="189" width="519" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-120505-xs.png 320w ,https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-120505-sm.png 480w ,https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-120505-md.png 768w ,https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-120505-xl.png 1024w">
+      <img loading="lazy" src="https://broremil.se/media/posts/4/Skaermbild-2024-04-02-120505.png" height="189" width="519" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-120505-xs.png 320w ,https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-120505-sm.png 480w ,https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-120505-md.png 768w ,https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-120505-xl.png 1024w">
       <figcaption>The function that is called from the editor when wanting to edit/visualize a pin's data</figcaption>
     </figure>
 
@@ -629,7 +629,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://broremilolofsson.github.io/media/posts/4/Skaermbild-2024-04-02-144358.png" height="188" width="482" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-144358-xs.png 320w ,https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-144358-sm.png 480w ,https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-144358-md.png 768w ,https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-144358-xl.png 1024w">
+      <img loading="lazy" src="https://broremil.se/media/posts/4/Skaermbild-2024-04-02-144358.png" height="188" width="482" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-144358-xs.png 320w ,https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-144358-sm.png 480w ,https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-144358-md.png 768w ,https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-144358-xl.png 1024w">
       <figcaption>The editor view of creating custom event nodes</figcaption>
     </figure>
 
@@ -638,7 +638,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://broremilolofsson.github.io/media/posts/4/Skaermbild-2024-04-02-144404.png" height="339" width="331" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-144404-xs.png 320w ,https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-144404-sm.png 480w ,https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-144404-md.png 768w ,https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-144404-xl.png 1024w">
+      <img loading="lazy" src="https://broremil.se/media/posts/4/Skaermbild-2024-04-02-144404.png" height="339" width="331" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-144404-xs.png 320w ,https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-144404-sm.png 480w ,https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-144404-md.png 768w ,https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-144404-xl.png 1024w">
       <figcaption>The "caller" and the "executor" nodes of a custom event</figcaption>
     </figure>
 
@@ -651,12 +651,12 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://broremilolofsson.github.io/media/posts/4/Skaermbild-2024-04-02-151057.png" height="159" width="512" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-151057-xs.png 320w ,https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-151057-sm.png 480w ,https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-151057-md.png 768w ,https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-151057-xl.png 1024w">
+      <img loading="lazy" src="https://broremil.se/media/posts/4/Skaermbild-2024-04-02-151057.png" height="159" width="512" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-151057-xs.png 320w ,https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-151057-sm.png 480w ,https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-151057-md.png 768w ,https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-151057-xl.png 1024w">
       <figcaption>Editor view of creating a variable with the type "SceneData"</figcaption>
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://broremilolofsson.github.io/media/posts/4/Skaermbild-2024-04-02-151026.png" height="242" width="311" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-151026-xs.png 320w ,https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-151026-sm.png 480w ,https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-151026-md.png 768w ,https://broremilolofsson.github.io/media/posts/4/responsive/Skaermbild-2024-04-02-151026-xl.png 1024w">
+      <img loading="lazy" src="https://broremil.se/media/posts/4/Skaermbild-2024-04-02-151026.png" height="242" width="311" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-151026-xs.png 320w ,https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-151026-sm.png 480w ,https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-151026-md.png 768w ,https://broremil.se/media/posts/4/responsive/Skaermbild-2024-04-02-151026-xl.png 1024w">
       <figcaption>Setter and getter for the variable "MySceneData"</figcaption>
     </figure>
 
